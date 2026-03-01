@@ -1,10 +1,10 @@
 ## 📊 Dashboard Preview
 
 ### 1️⃣ Executive Credit Risk Overview
-![Executive Overview]([screenshots/Credit Quality & Default Analysis.png](https://github.com/Glenn074/Loan-Risk-Analysis-PowerBI/blob/60fc664714433c07bc898b0cc3041072b9dbcb73/screenshots/Credit%20Quality%20%26%20Default%20Analysis.png))
+([screenshots/Credit Quality & Default Analysis.png](https://github.com/Glenn074/Loan-Risk-Analysis-PowerBI/blob/60fc664714433c07bc898b0cc3041072b9dbcb73/screenshots/Credit%20Quality%20%26%20Default%20Analysis.png))
 
 ### 2️⃣ Credit Quality & Default Analysis
-![Risk Breakdown](screenshots/Credit_Quality_&_Default_Analysis.png)
+([screenshots/Credit_Quality_&_Default_Analysis.png](https://github.com/Glenn074/Loan-Risk-Analysis-PowerBI/blob/60fc664714433c07bc898b0cc3041072b9dbcb73/screenshots/Executive%20Credit%20Risk%20Overview.png))
 
 ### 3️⃣ Time-Based Risk Trends
 ![Loan Performance](screenshots/Time-Based_Risk_Trends.png)
