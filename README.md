@@ -1,17 +1,40 @@
 📊 Loan Risk Analytics & Default Behavior Dashboard
 
+🚀 Project Overview
 
-🚀 Business Problem
+This project delivers a comprehensive Loan Risk Analytics solution designed to evaluate credit risk and default behavior at scale. Using 2.2M+ loan records, the system integrates PostgreSQL-based data engineering with Power BI-driven business intelligence to uncover high-risk segments and portfolio vulnerabilities.
 
-Financial institutions face significant losses due to loan defaults.
-The objective of this project was to:
+The project follows a structured analytics workflow:
 
-Identify high-risk borrower segments
+Data cleaning and transformation in PostgreSQL
 
-Analyze default behavior across states, grades, and loan purposes
+Fact and dimension table creation
 
-Build a risk-focused dashboard to support data-driven lending decisions
+Star schema data modeling
 
+DAX-based KPI and risk metric development
+
+Interactive dashboard reporting for strategic insights
+
+The final dashboard enables stakeholders to identify high-risk loan categories, measure default concentration, and support informed lending decisions.
+
+
+🏢 Business Problem
+
+Financial institutions face significant financial losses due to loan defaults.
+With millions of loan applications processed annually, identifying high-risk borrowers early is critical for maintaining portfolio health and reducing credit risk.
+
+The objective of this project was to analyze large-scale loan data (2.2M+ records) to:
+
+Identify borrower segments contributing to high default rates
+
+Detect state-wise and purpose-wise risk concentration
+
+Measure portfolio risk using key default metrics
+
+Support data-driven lending strategy decisions
+
+The goal was not just visualization, but building a risk analytics framework that enables better credit decision-making.
 
 🏗️ End-to-End Solution Architecture
 
