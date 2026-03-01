@@ -1,4 +1,4 @@
-#📊 Loan Risk Analytics & Default Behavior Dashboard
+📊 Loan Risk Analytics & Default Behavior Dashboard
 🚀 Business Problem
 
 Financial institutions face significant losses due to loan defaults.
