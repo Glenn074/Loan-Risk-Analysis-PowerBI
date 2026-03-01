@@ -1,4 +1,6 @@
 📊 Loan Risk Analytics & Default Behavior Dashboard
+
+
 🚀 Business Problem
 
 Financial institutions face significant losses due to loan defaults.
@@ -9,6 +11,7 @@ Identify high-risk borrower segments
 Analyze default behavior across states, grades, and loan purposes
 
 Build a risk-focused dashboard to support data-driven lending decisions
+
 
 🏗️ End-to-End Solution Architecture
 
@@ -26,6 +29,7 @@ Interactive Dashboard Development – Power BI
 
 Dataset size: 2.2M+ loan records
 
+
 🛠️ Tech Stack
 
 PostgreSQL – Data cleaning, transformation, fact table creation
@@ -37,6 +41,7 @@ Power BI – Dashboarding & visualization
 DAX – KPI calculations & risk measures
 
 Data Modeling – Star Schema Design
+
 
 🧱 Data Modeling (Star Schema)
 
@@ -51,6 +56,7 @@ Built 1:M relationship using Loan ID
 Optimized model for performance & KPI calculation
 
 This improved reporting efficiency and enabled accurate risk segmentation.
+
 
 📈 Key Risk KPIs Developed
 
@@ -67,6 +73,7 @@ Top Risk Loan Purpose
 State-wise Default Distribution
 
 Grade-wise Risk Analysis
+
 
 📊 Dashboard Structure
 1️⃣ Executive Overview
@@ -85,6 +92,7 @@ State-level trends & funded amount vs default correlation
 
 Identification of high-risk segments for strategic decision-making
 
+
 📊 Key Business Insights
 
 Certain loan purposes contribute disproportionately to defaults
@@ -94,6 +102,7 @@ Specific states show consistently higher default rates
 Lower-grade loans significantly increase portfolio risk
 
 High-risk loan share identified for targeted risk mitigation
+
 
 📂 Power BI File Access
 
@@ -111,6 +120,7 @@ Dashboard screenshots
 
 Business problem explanation
 
+
 💼 Skills Demonstrated
 
 ✔ Data Cleaning & Transformation
@@ -119,6 +129,7 @@ Business problem explanation
 ✔ DAX KPI Development
 ✔ Business Risk Analytics
 ✔ Dashboard Design for Decision Support
+
 
 🎯 Why This Project Stands Out
 
@@ -132,8 +143,10 @@ Business-driven KPI creation
 
 End-to-end analytics workflow implementation
 
+
 📌 Author
 
 Glenn Joseph
 B.Tech – Information Technology & Data Science
+
 Aspiring Data Analyst | Business Intelligence Enthusiast
